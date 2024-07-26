@@ -4,47 +4,44 @@
 
 # String 
 
-# m =  "Arday"
-# print(m)
+m =  "Arday"
+print(m)
 
-# # type 
-
-# print(type(m))
+# type 
+print(type(m))
 
 
 # Numberic (int, float)
 
-# i  = 10.0
-# print(type(i))
+i  = 10.0
+print(type(i))
 
 
 # Boolean(true or false)
 
 
-# x  = 20
-# y = 40
+x  = 20
+y = 40
 
-# result = x >  y
-# print(result)
+result = x >  y
+print(result)
 
 
 # Data structure(list, tuble , set dic)
 
 
-# z = ["Mohmed", "Khaalid", "muna", 1,2,3]
-# print(z[:1])
+z = ["Mohmed", "Khaalid", "muna", 1,2,3]
+print(z[:1])
 
 # tuple
-
-# z = ("Mohmed", "Khaalid", "muna", 1,2,3)
-
-# print(type(z))
+z = ("Mohmed", "Khaalid", "muna", 1,2,3)
+print(type(z))
 
 # set
 
-# z = {"Mohmed", "Khaalid", "muna", 1,2,3}
+z = {"Mohmed", "Khaalid", "muna", 1,2,3}
 
-# print(type(z))
+print(type(z))
 
 
 m = {'name': "Khallid", "age": 20}
